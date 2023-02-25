@@ -6,3 +6,4 @@ This repository contains code I've written or practiced while reading "The Book"
 | 2023-02-24     | 1.2              | Hello, World |
 | 2023-02-24 | 1.3 | Hello, Cargo |
 | 2023-02-25 | 2.0 | Guessing Game |
+| 2023-02-25 | 3.1 | Variables | Basics - mut, shadowing |
