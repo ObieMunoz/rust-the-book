@@ -10,3 +10,5 @@ This repository contains code I've written or practiced while reading "The Book"
 | 2023-02-25 | 3.2 | Data Types |
 | 2023-02-25 | 3.3 | Functions |
 | 2023-02-25 | 3.5 | Control Flow |
+| 2023-02-25 | 3.5 | Extra - Fahrenheit -> Celsius |
+| 2023-02-25 | 3.5 | Extra - nth Fibonacci |
