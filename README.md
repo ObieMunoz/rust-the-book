@@ -3,6 +3,7 @@ This repository contains code I've written or practiced while reading "The Book"
 
 ### Read the book <a href="https://doc.rust-lang.org/book/" target="_blank">here</a>.
 
+There will be jumps in the sections below as not every section has code completion objectives.
 
 | Date Completed | Chapter/Exercise | Title |
 |----------------|------------------|-------|
