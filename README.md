@@ -1,7 +1,7 @@
 # The Book
 This repository contains code I've written or practiced while reading "The Book" for The Rust Programming Language.
 
-## The Book: <a href="https://doc.rust-lang.org/book/" target="_blank">Link</a>
+### Read the book <a href="https://doc.rust-lang.org/book/" target="_blank">here</a>.
 
 
 | Date Completed | Chapter/Exercise | Title |
