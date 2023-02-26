@@ -3,7 +3,7 @@ This repository contains code I've written or practiced while reading "The Book"
 
 ### Read the book <a href="https://doc.rust-lang.org/book/" target="_blank">here</a>.
 
-| Date Completed | Chapter | Exercise  | Title                  | Link                       |
+| Date Completed | Chapter | Exercise  | Title                  | Exercise Code              |
 |----------------|---------|-----------|------------------------|----------------------------|
 | 2023-02-24     | 1       | -         | Installation           | N/A                        |
 | 2023-02-24     | 1       | 2         | Hello, World           | [Link](./1.2)              |
