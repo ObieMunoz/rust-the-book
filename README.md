@@ -18,4 +18,4 @@ This repository contains code I've written or practiced while reading "The Book"
 | 2023-02-25     | 3       | 5 (Extra) | nth Fibonacci          | [Link](./3.5-fibonacci)    |
 | 2023-02-26     | 4       | 1         | Ownership              | N/A                        |
 | 2023-02-26     | 4       | 2         | References/Borrowing   | N/A                        |
-
+| 2023-02-26     | 4       | 3         | Fix Ownership Errors   | N/A                        |
