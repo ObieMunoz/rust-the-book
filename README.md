@@ -20,4 +20,4 @@ This repository contains code I've written or practiced while reading "The Book"
 | 2023-02-26     | 4       | 2         | References/Borrowing   | N/A                        |
 | 2023-02-26     | 4       | 3         | Fix Ownership Errors   | N/A                        |
 | 2023-02-26     | 4       | 4         | The Slice Type         | [Link](./4.4)              |
-
+| 2023-02-27     | 5       | 1         | Structs                | [Link](./5.1)              |
