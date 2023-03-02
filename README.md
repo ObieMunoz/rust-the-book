@@ -22,3 +22,4 @@ This repository contains code I've written or practiced while reading "The Book"
 | 2023-02-26     | 4       | 4         | The Slice Type         | [Link](./4.4)              |
 | 2023-02-27     | 5       | 1         | Structs                | [Link](./5.1)              |
 | 2023-02-28     | 5       | 2         | Struct Examples        | [Link](./5.2)              |
+| 2023-03-01     | 5       | 3         | Struct Method Syntax   | [Link](./5.3)              |
