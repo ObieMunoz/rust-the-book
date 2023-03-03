@@ -23,3 +23,4 @@ This repository contains code I've written or practiced while reading "The Book"
 | 2023-02-27     | 5       | 1         | Structs                | [Link](./5.1)              |
 | 2023-02-28     | 5       | 2         | Struct Examples        | [Link](./5.2)              |
 | 2023-03-01     | 5       | 3         | Struct Method Syntax   | [Link](./5.3)              |
+| 2023-03-02     | 6       | 1         | Defining an Enum       | [Link](./6.1)              |
