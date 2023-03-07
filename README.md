@@ -26,3 +26,4 @@ This repository contains code I've written or practiced while reading "The Book"
 | 2023-03-02     | 6       | 1         | Defining an Enum        | [Link](./6.1)              |
 | 2023-03-06     | 6       | 2         | The Match Control Flow  | [Link](./6.2)              |
 | 2023-03-06     | 6       | 3         | The If Let Control Flow | [Link](./6.3)              |
+| 2023-03-06     | 6       | 4         | Ownership Inventory #1  | N/A                        |
